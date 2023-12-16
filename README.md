@@ -1,3 +1,3 @@
-# node-js-internals
+# node-js-concepts
 
-## some core node js concepts
+## Notes and code snippets about various node js concepts
